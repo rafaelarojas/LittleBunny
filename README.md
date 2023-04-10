@@ -1,6 +1,6 @@
 ![LittleBunny](https://user-images.githubusercontent.com/85657433/230749766-4a1f407c-44c7-43c3-b8a9-b0e77b650fa9.png)
 
-> LittleBunny é um jogo bidimensional de plataforma desenvolvido em 5 dias com Godot. 
+> LittleBunny é um jogo bidimensional de plataforma desenvolvido com Godot. 
 
 ## História 
 
